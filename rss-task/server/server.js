@@ -10,7 +10,7 @@ app.get('/', (req, res) => res.send('hi!'))
 app.post('/yo', async (req, res) => {
   let arr = [];
   let n = +req.body.param;
-  const { items } = await new Parser().parseURL('https://nodejs.org/en/feed/blog.xml');
+  const { items } = await new Parser().parseURL('https://nodejs.org/en/feed/blog.xml').catch(x=>console.log(x));
   items.slice(0, n).map(({title, link}) => ({title, link})).forEach(item => arr.push(item));
   res.send(arr);
 })
