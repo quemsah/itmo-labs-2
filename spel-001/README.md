@@ -1,5 +1,3 @@
-https://kodaktor.ru/g/tmpl_002
-
-https://kodaktor.ru/68e7039
-
-Ответ на репл: https://spel-001--quemsah.repl.co/spell/6273
+https://kodaktor.ru/spel_01
+https://repl.it/@quemsah/spel-001
+Ответ на реплe: https://spel-001--quemsah.repl.co/spell/6273

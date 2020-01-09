@@ -1,1 +1,14 @@
-## Лабораторные работы по дисциплине "Серверные веб-технологии и системы управления контентом"
+## Лабораторные работы по дисциплине "Серверные веб-технологии и системы управления контентом"  
+#### Павлов Евгений, Р42622
+
+| Задание                                                                                         | Исходный код                                                     | Результат                                                                             |
+|-------------------------------------------------------------------------------------------------|------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| Введение в Effector https://kodaktor.ru/effector_intro Реконструкция https://kodaktor.ru/g/book | https://github.com/quemsah/itmo-labs-2/tree/master/effector      | https://kodaktor.ru/g/private_a8d81 Пароль – 8416                                     |
+| Горизонтальное отражение изображение "на лету"                                                  | https://repl.it/@quemsah/flopper                                 | https://flopper--quemsah.repl.co                                                      |
+| Создание бота на Node.js  https://kodaktor.ru/g/bots                                            | https://github.com/quemsah/florida-man-bot                       | Запускать это  https://repl.it/@quemsah/florida-man-bot Писать сюда  t.me/FloridaMBot |
+| Введение в PHP                                                                                  | https://repl.it/@quemsah/phpintro                                | https://repl.it/@quemsah/phpintro                                                     |
+| Мини-хакатон public-secret https://kodaktor.ru/g/public09092019                                 | https://github.com/quemsah/itmo-labs-2/tree/master/public-secret | https://fork.kodaktor.ru/mysterylist                                                  |
+| Парсинг RSS-ленты https://kodaktor.ru/rss_task                                                  | https://github.com/quemsah/itmo-labs-2/tree/master/rss-task      | https://github.com/quemsah/itmo-labs-2/tree/master/rss-task                           |
+| Серверная функция: число прописью https://kodaktor.ru/spel_01                                   | https://repl.it/@quemsah/spel-001                                | https://spel-001--quemsah.repl.co/spell/6273                                          |
+| Pug + rates visualization https://kodaktor.ru/g/tmpl_002                                        | https://kodaktor.ru/68e7039                                      | https://kodaktor.ru/68e7039                                                           |
+| Zipper – архивация "на лету"                                                                    | https://repl.it/@quemsah/zipper                                  | https://zipper.quemsah.repl.co                                                        |
