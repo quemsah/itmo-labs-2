@@ -1,0 +1,102 @@
+@charset "UTF-8";
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,700);
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-weight: 300;
+  line-height: 1em;
+  color: #A7A1AE;
+  background-color:pink;
+}
+
+h1 {
+  padding-bottom: 0;
+  margin-bottom: 0;
+  font-size: 4em;
+  font-weight: bold;
+  line-height: 1em;
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  font-size: 1em;
+  font-weight: 300;
+  text-align: center;
+  display: block;
+  line-height: 1em;
+  padding-bottom: 2em;
+  color: red;
+}
+
+h2 a {
+  font-weight: 700;
+  color: red;
+  text-decoration: none;
+}
+
+.container th h1 {
+  font-weight: normal;
+  font-size: 2.5em;
+  text-align: center;
+  padding-top:0;
+  margin-top: 0.5em;
+}
+
+.container td {
+  text-align: center;
+  font-weight: normal;
+  font-size: 1.75em;
+  line-height: normal;
+}
+td a {
+  font-weight: 700;
+  color: #1946BA;
+  text-decoration: none;
+}
+
+.container {
+  text-align: left;
+  overflow: hidden;
+  width: 70%;
+  margin: 0 auto;
+  display: table;
+  padding: 0 0 8em 0;
+}
+
+.container td {
+  padding-bottom: 0.5%;
+  padding-top: 0.5%;
+}
+.container th {
+  padding-bottom: 0%;
+  padding-top: 0%;
+}
+
+.container tr:nth-child(odd) {
+  background-color: pink;
+}
+
+.container tr:nth-child(even) {
+  background-color: pink;
+}
+
+.container th {
+  background-color:pink;
+}
+
+.container td:first-child {
+  color: red;
+}
+
+.container td:hover {
+  background-color: #FFF842;
+  color: #403E10;
+  font-weight: bold;
+  box-shadow: #7F7C21 -1px 1px, #7F7C21 -2px 2px, #7F7C21 -3px 3px, #7F7C21 -4px 4px, #7F7C21 -5px 5px, #7F7C21 -6px 6px;
+  transform: translate3d(6px, -6px, 0);
+  transition-delay: 0s;
+  transition-duration: 0.4s;
+  transition-property: all;
+  transition-timing-function: line;
+}
